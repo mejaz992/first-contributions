@@ -4,6 +4,7 @@
 - [Anushree](https://github.com/anushree816)
 - [gilded1](https://github.com/gilded1)
 - [Dilnawaz](me@dillo.me)
+- [Muhammad Faisal](https://github.com/MuhammadFaisal)
 - [Sumit Kumar Daroch](https://github.com/sumitdaroch)
 - [Muhammad Ijaz](https://github.com/mejaz992)
 - [Himanshu Singh](https://github.com/himanshux101)
